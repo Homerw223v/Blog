@@ -1,0 +1,10 @@
+db.sqlite3
+
+media/profile_pics
+media/default.jpg
+
+translator
+
+.idea
+
+.pytest_cache
